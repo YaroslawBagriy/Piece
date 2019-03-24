@@ -6,4 +6,4 @@ Summary: This tutorial was completed to obtain basic knowledge of UI development
 Tutorial Link: https://medium.com/sketch-app-sources/designing-an-ios-app-in-sketch-part-3-of-3-9f0339f7c0c6
 
 Welcome Screen:
-![Screenshot](welcome.png)
+![img](welcome.png)
